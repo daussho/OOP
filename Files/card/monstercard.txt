@@ -1,0 +1,97 @@
+====================================
+001
+Blue-Eyes White Dragon
+0.03
+0
+Dragon
+This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
+Light
+0
+8
+3000
+2500
+====================================
+002
+Celtic Guardian
+0.11
+0
+Warrior
+An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.
+Earth
+0
+4
+1400
+1200
+====================================
+003
+Tyhone
+0.12
+0
+Winged Beast
+Capable of firing cannonballs from its mouth for long-range attacks, this creature is particulary effective in mountain battles.
+Wind
+0
+4
+1200
+1400
+====================================
+004
+Hane-Hane
+0.07
+0
+Beast
+FLIP: Select 1 monster on the field and return it to its owner's hand.
+Earth
+1
+2
+450
+500
+====================================
+005
+Man-Eater Bug
+0.05
+0
+Insect
+FLIP: Target 1 monster on the field; destroy that target.
+Earth
+0
+2
+450
+600
+====================================
+006
+Turtle Tiger
+0.11
+0
+Aqua
+A tiger encased in a protective shell that attacks with razor-sharp fangs.
+Water
+0
+4
+1000
+1500
+====================================
+007
+Harpie Lady
+0.1
+0
+Winged Beast
+This human-shaped animal with wings is beautiful to watch but deadly in battle.
+Wind
+0
+4
+1300
+1400
+====================================
+008
+Curse of Dragon
+0.08
+0
+Dragon
+A wicked dragon that taps into dark forces to execute a powerful attack.
+Dark
+0
+5
+2000
+1500
+====================================

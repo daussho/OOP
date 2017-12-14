@@ -1,0 +1,25 @@
+====================================
+009
+Fissure
+0.05
+0
+Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).
+====================================
+010
+Change of Heart
+0.04
+0
+Target 1 monster your opponent controls; take control of it until the End Phase.
+====================================
+011
+Stop Defense
+0.07
+0
+Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.
+====================================
+012
+Follow Wind
+0.07
+0
+Increase the ATK and DEF of a Winged-Beast-Type monster equipped with this card by 300 points.
+====================================
